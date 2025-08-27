@@ -1,8 +1,4 @@
 Olá! Eu sou o Caio Santos 👋
-- 🌱 Estudando React
-- 🤔 Estou procurando ajuda com o primeiro emprego em front end
-- 😄 Pronomes: ele/dele
-
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=caioosantos&show_icons=true&theme=blue_navy&count_private=true"/>
